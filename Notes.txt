@@ -1,0 +1,1 @@
+Methods are Objects properties that are functions.
